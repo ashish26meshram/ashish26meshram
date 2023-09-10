@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm ASHISH MESHRAM</h1>
 <h3 align="center">Passionate Data Science Enthusiast with Strong Analytical Skills and a Drive for Solving Complex Problems</h3>
 
-<img aling="right" alt="Coding" width= "400" src=" https://user-images.githubusercontent..."
+<img aling="right" alt="Coding" width="400" src="https://user-images.githubusercontent...](https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashish26meshram&label=Profile%20views&color=0e75b6&style=flat" alt="ashish26meshram" /> </p>
 
 - 💬 Ask me about **I am a motivated and results-driven professional with a Bachelor's degree in Mechanical Engineering and a strong passion for data analysis. Outside of work, I am dedicated to continuous learning and staying up-to-date with the latest trends in data science and analytics**
